@@ -20,4 +20,5 @@ app/: Contains the application code and dependencies.
 ## Dataset
 The model was trained on the Plant Village dataset, which includes images of plant leaves categorized by various diseases. This dataset is publicly available and was used to train and evaluate the model's performance.
 
+## Project Link
 Link to the entire project: https://drive.google.com/file/d/1fF70y-TayYSHz33WKX7U-qmtMECopwQ0/view?usp=sharing
